@@ -1,5 +1,9 @@
 # Tutorial: Extracting Unstructured Text Using Large Language Models
 
+[![DOI](https://zenodo.org/badge/1339589268.svg)](https://doi.org/10.5281/zenodo.22013690)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains code to accompany the forthcoming article in [INFORMS Journal on Applied Analytics](https://ssrn.com/abstract=6556303)
 
 ## Prerequisites
