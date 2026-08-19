@@ -53,7 +53,7 @@ pip install -r requirements.txt
 If you use this tutorial in your research, please cite:
 
 ```bibtex
-@article{spavond2026LLMextraction,
+@article{spavound2026LLMextraction,
   author  = {Spavound, Simon and Schaer, Oliver and Markou, Panos},
   title   = {Tutorial: Extracting Unstructured Text Using Large Language Models},
   journal = {INFORMS Journal on Applied Analytics},
