@@ -36,4 +36,5 @@ preferred-citation:
   # volume: ""        
   # issue: ""         
   # start: ""         
-  # end: ""           
+  # end: ""
+license: "MIT"
