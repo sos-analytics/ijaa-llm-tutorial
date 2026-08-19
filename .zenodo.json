@@ -1,0 +1,11 @@
+{
+  "description": "<p>Companion code for our tutorial in INFORMS Journal on Applied Analytics. For the live repository, documentation, and issues, visit <a href=\"https://github.com/sos-analytics/ijaa-llm-tutorial\">GitHub</a>.</p>",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/sos-analytics/ijaa-llm-tutorial",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
