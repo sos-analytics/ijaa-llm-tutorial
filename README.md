@@ -48,6 +48,8 @@ pip install -r requirements.txt
 2. Select your Python kernel.
 3. Execute the cells sequentially.
 
+To process a full PDF end to end into a single JSON file, run `full_example.ipynb` (set `pdf` to your own file to process a different document).
+
 ## Citation
 
 If you use this tutorial in your research, please cite:

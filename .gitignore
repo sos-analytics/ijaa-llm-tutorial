@@ -87,8 +87,11 @@ Thumbs.db
 # Large Files not to be commited
 # =========================
 *.pdf
+!example.pdf
 
 # =========================
 # Tutorial specific ignores
 # =========================
 example/
+example.txt
+example.json
