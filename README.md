@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains code to accompany the forthcoming article in [INFORMS Journal on Applied Analytics](https://ssrn.com/abstract=6556303)
+This repository contains code to accompany the article in [INFORMS Journal on Applied Analytics](https://doi.org/10.1287/inte.2026.0314)
 
 ## Prerequisites
 
@@ -44,11 +44,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Open the `tutorial_example.ipynb` tutorial files in your preferred editor (JupyterLab, Jupyter Notebook, or VS Code).
+1. Open the `tutorial_example.ipynb` tutorial file in your preferred editor (JupyterLab, Jupyter Notebook, or VS Code).
 2. Select your Python kernel.
 3. Execute the cells sequentially.
 
-To process a full PDF end to end into a single JSON file, run `full_example.ipynb` (set `pdf` to your own file to process a different document).
+To process a full PDF end to end into a single JSON file, run `full_example.ipynb` (set `pdf` to your own file to process a different document). The provided example is sourced from the [FDA Oncologic Drugs Advisory Committee archive](https://web.archive.org/web/20150923144306/http://www.fda.gov/ohrms/dockets/ac/99/transcpt/3505t1.pdf)
 
 ## Citation
 
@@ -60,5 +60,5 @@ If you use this tutorial in your research, please cite:
   title   = {Tutorial: Extracting Unstructured Text Using Large Language Models},
   journal = {INFORMS Journal on Applied Analytics},
   year    = {2026},
-  note    = {, forthcoming]
+  note    = {, pre-print]
 }
